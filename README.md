@@ -2,6 +2,9 @@
 # The Zero Gradient Challenge: Neuroevolution using only Numpy!
 #### By Jacob Gursky
 
+Please see the Towards Data Science article on this topic here:
+https://towardsdatascience.com/gradient-free-reinforcement-learning-neuroevolution-using-numpy-7377d6f6c3ea
+
 ### Introduction
 
 What if I told you that you can train neural networks without ever calculating a gradient, and only using the forward pass?  Such is the magic of **neuroevolution!** Also, I am going to show that all this can easily be done using only Numpy!  This is a bit of an ongoing project that I have been working on off and on for a while now, but let's dive in!
